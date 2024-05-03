@@ -1,0 +1,41 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    /* Header */
+    .top-stories ul li {
+        font-size: 10px;
+    }
+    .header-top-right span {
+        display: none;
+    }
+    .header-bottom {
+        overflow: scroll;
+    }
+    .header-bottom #menu-main-navigation li a {
+        white-space: nowrap;
+    }
+
+    /* Latest Videos */
+    .latest-videos-listing .time-duration {
+        gap: 18px;
+    }
+    .latest-videos-listing span.duration::before,
+    .latest-videos-listing span.duration::after {
+        display: none;
+    }
+
+    /* Footer */
+    .footer-top-left.col-md-4, .footer-top-middle.col-md-4 {
+        width: 50%;
+    }
+    .footer-top-right.col-md-4 {
+        width: 100%;
+        text-align: center;
+        padding-left: 12px;
+    }
+    .social-section ul {
+        margin-bottom: 0px;
+        justify-content: center;
+    }
+    .app-section {
+        display: block;
+    }
+}

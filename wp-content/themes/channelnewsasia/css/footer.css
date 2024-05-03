@@ -1,0 +1,192 @@
+/* footer-section */
+.footer-top {
+    background-color: #262626;
+    color: #fff;
+    padding-top: 45px;
+    padding-bottom: 70px;
+  }
+  .footer-top h2.widget-title {
+    margin: 0 0 15px;
+    word-break: break-word;
+    padding-left: 26px;
+    font-size: 26px;
+    line-height: 1.26;
+    font-weight: 600;
+    position: relative;
+  }
+  .footer-top h2.widget-title:before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: calc(1.625rem - 5px);
+    background: #b50000;
+    transform: skew(24deg, 0deg);
+    margin-left: 5px;
+    margin-right: 4px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+  }
+  .footer-top ul {
+    display: flex;
+    flex-flow: wrap;
+    margin: 0 0 30px;
+    list-style-type: none;
+    padding: 0;
+  }
+  .footer-top ul li {
+    flex: 0 0 50%;
+    padding-right: 30px;
+    margin-bottom: 10px;
+    height: 28px;
+  }
+  .footer-top ul li a {
+    font-size: 16px;
+    font-weight: 300 !important;
+    color: #fff !important;
+    line-height: 1.25;
+  }
+  .footer-top ul li a:hover {
+    text-decoration: underline !important;
+  }
+  .footer-top-middle {
+    padding-left: 40px;
+  }
+  .footer-top-right {
+    padding-left: 0;
+  }
+  .newsletter-form {
+    overflow: auto;
+    border-bottom: 1px solid rgba(213, 213, 213, 0.5);
+    margin-bottom: 20px;
+  }
+  .newsletter-form h2 {
+    margin: 8px 0 15px;
+    font-size: 26px;
+    line-height: 1.26;
+    font-weight: 600;
+  }
+  .newsletter-form h3 {
+    margin: 20px 0;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.4;
+  }
+  .newsletter-form select#choose-newsletter {
+    height: 41px;
+    font-size: 14px;
+    outline: none;
+    padding: 0.6em 0.8em 0.5em;
+    width: 100%;
+    padding-left: 0;
+    background: transparent;
+    color: rgba(213, 213, 213, 0.7);
+    border: unset;
+    border-bottom: 1px solid rgba(213, 213, 213, 0.7);
+    margin-bottom: 15px;
+  }
+  .newsletter-form select#choose-newsletter option {
+    background: #545454;
+    color: #fff;
+  }
+  .newsletter-form input#email {
+    padding: 10px 0;
+    width: 100%;
+    background: transparent;
+    border: unset;
+    border-bottom: 1px solid #979797;
+    color: rgba(213, 213, 213, 0.7);
+    outline: none;
+    margin-bottom: 15px;
+  }
+  .newsletter-form input#email::placeholder {
+    color: rgba(213, 213, 213, 0.7);
+  }
+  .btn-custom {
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-size: 16px;
+    line-height: 1.1;
+    background-color: #b50000;
+    border: none;
+    border-bottom: 2px solid #890000;
+    color: #fff;
+  }
+  .btn-custom:hover {
+    background-color: #890000;
+    color: #fff;
+  }
+  .newsletter-form p {
+    color: #636363;
+    margin: 15px 0;
+    padding-right: 20px;
+    line-height: 1.1;
+    font-size: 12px;
+    font-weight: 300;
+  }
+  .social-section h2 {
+    font-size: 26px;
+    margin-bottom: 13px;
+  }
+  .social-section ul {
+    flex-wrap: unset;
+    gap: 30px;
+    margin-bottom: 23px;
+  }
+  .social-section ul li {
+    flex: unset;
+    padding: 0;
+  }
+  .social-section ul li img {
+    width: 20px;
+  }
+  .app-section {
+    display: flex;
+    gap: 5px;
+  }
+  .app-section a:last-child img {
+    width: 122px;
+  }
+  .footer-bottom {
+    font-size: 12px;
+    font-weight: 300;
+    padding: 25px 0;
+    text-align: center;
+    background: #000;
+    color: #fff;
+  }
+  .copyright-section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  .copyright-section ul li {
+    padding: 0 5px;
+    position: relative;
+  }
+  .copyright-section ul li:after {
+    content: "";
+    width: 1px;
+    height: 100%;
+    background-color: #fff;
+    position: absolute;
+    right: 0;
+  }
+  .copyright-section ul li:first-child {
+    padding-left: 0;
+  }
+  .copyright-section ul li:last-child {
+    padding-right: 0;
+  }
+  .copyright-section ul li:last-child:after {
+    content: unset;
+  }
+  .copyright-section ul li a {
+    color: #fff !important;
+    font-weight: 300 !important;
+  }
+  .copyright-section ul li a:hover {
+    text-decoration: underline !important;
+  }

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45px" height="60px" viewBox="0 0 45 60" version="1.1">
+  <title>72C3FD21-BC4E-43E0-BA61-A90AA9D49181</title>
+  <defs>
+    <path d="M0.6282,1.64272727 L0.6282,16.2563636 L4.5504,16.2563636 L4.5504,3.70727273 C5.0031,3.41181818 5.9832,3.26454545 6.6618,3.26454545 C8.8497,3.26454545 9.3015,4.44363636 9.3015,6.43909091 L9.3015,16.1845455 L13.2984,16.1845455 L13.2984,6.07090909 C13.2984,5.25909091 13.2237,4.52181818 13.0716,3.78090909 C12.7935,2.70090909 12.2787,1.74 11.3355,1.04909091 C10.5048,0.534545455 9.2241,0.162727273 7.4898,0.162727273 C5.0031,0.163636364 2.3625,0.681818182 0.6282,1.64272727" id="path-1"></path>
+    <linearGradient x1="50.3742811%" y1="0.28655988%" x2="50.3742811%" y2="99.983163%" id="linearGradient-3">
+      <stop stop-color="#524B48" offset="0%"></stop>
+      <stop stop-color="#49423F" offset="27.06%"></stop>
+      <stop stop-color="#302A28" offset="71.3%"></stop>
+      <stop stop-color="#1D1715" offset="99.89%"></stop>
+      <stop stop-color="#1D1715" offset="100%"></stop>
+    </linearGradient>
+    <path d="M4.3812,11.2463636 C4.3812,9.62363636 4.9851,9.10636364 6.3414,8.80909091 C7.4736,8.51545455 8.4312,8.51545455 9.6363,8.44090909 L9.6363,12.9427273 C8.7318,13.3127273 8.001,13.386365 7.0947,13.386365 C5.3613,13.3872727 4.3812,12.9427273 4.3812,11.2463636 M1.3383,0.959090909 L1.3545,4.09181818 C3.0474,3.52818182 4.8105,3.27272727 6.6969,3.27272727 C8.8092,3.27272727 9.639,4.08636364 9.639,5.93090909 C7.8282,6.00454545 6.57,6.00454545 4.9095,6.29909091 C1.7415,6.74272727 0.5346,8.51545455 0.5346,11.3190909 C0.5346,14.7154545 2.7585,16.4672727 6.6438,16.4863636 C9.5094,16.4863636 11.7495,15.9709091 13.4856,15.01 L13.4856,5.26545455 C13.4856,1.13181818 10.5417,0.172727273 6.9984,0.172727273 C4.6593,0.172727273 2.8539,0.525454545 1.3383,0.959090909" id="path-4"></path>
+    <linearGradient x1="49.8651842%" y1="-0.0419001337%" x2="49.8651842%" y2="100.225135%" id="linearGradient-6">
+      <stop stop-color="#524B48" offset="0%"></stop>
+      <stop stop-color="#49423F" offset="27.06%"></stop>
+      <stop stop-color="#302A28" offset="71.3%"></stop>
+      <stop stop-color="#1D1715" offset="99.89%"></stop>
+      <stop stop-color="#1D1715" offset="100%"></stop>
+    </linearGradient>
+    <path d="M0.7281,8.13 C0.7281,12.4109091 1.5579,16.4709091 6.9129,16.4709091 C9.0252,16.4709091 11.5623,16.0527273 12.9186,15.6854545 L12.9141,12.3054545 C11.934,12.5254545 10.1304,12.9536364 9.1494,12.9536364 C5.1516,12.9536364 4.7997,11.6 4.7997,8.05545455 C4.7997,4.29181818 5.4549,3.28181818 9.1494,3.37818182 C10.3788,3.40909091 11.2221,3.56818182 12.8952,4.06727273 L12.9168,0.869090909 C11.7864,0.574545455 9.6264,0.0836363636 7.8165,0.0836363636 C1.9359,0.0845454545 0.7281,2.96272727 0.7281,8.13" id="path-7"></path>
+    <linearGradient x1="49.7957324%" y1="-0.21313509%" x2="49.7957324%" y2="100.007595%" id="linearGradient-9">
+      <stop stop-color="#524B48" offset="0%"></stop>
+      <stop stop-color="#49423F" offset="27.06%"></stop>
+      <stop stop-color="#302A28" offset="71.3%"></stop>
+      <stop stop-color="#1D1715" offset="99.89%"></stop>
+      <stop stop-color="#1D1715" offset="100%"></stop>
+    </linearGradient>
+    <polygon id="path-10" points="17.2656 0.786363636 0.7119 39.5263636 11.1825 39.5263636 27.7353 0.786363636"></polygon>
+    <linearGradient x1="50.1701385%" y1="100.334413%" x2="50.1701385%" y2="-0.158133125%" id="linearGradient-12">
+      <stop stop-color="#ED1D24" offset="0%"></stop>
+      <stop stop-color="#E41B21" offset="17.13%"></stop>
+      <stop stop-color="#CC1419" offset="44.95%"></stop>
+      <stop stop-color="#A5090C" offset="79.82%"></stop>
+      <stop stop-color="#8B0204" offset="100%"></stop>
+    </linearGradient>
+    <polygon id="path-13" points="0.1656 0.786363636 16.7175 39.5263636 27.189 39.5263636 10.6353 0.786363636"></polygon>
+    <linearGradient x1="25.5697904%" y1="24.9817048%" x2="74.67882%" y2="75.0878467%" id="linearGradient-15">
+      <stop stop-color="#ED1D24" offset="0%"></stop>
+      <stop stop-color="#E41B21" offset="17.12%"></stop>
+      <stop stop-color="#CC1419" offset="44.93%"></stop>
+      <stop stop-color="#A5090C" offset="79.79%"></stop>
+      <stop stop-color="#8B0204" offset="99.96%"></stop>
+      <stop stop-color="#8B0204" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <g id="✔️-Homepage_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Homepage_Desktop" transform="translate(-76.000000, -15.000000)">
+      <g id="logo" transform="translate(76.000000, 15.000000)">
+        <g id="Clipped" transform="translate(15.300000, 42.727273)">
+          <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+          </mask>
+          <g id="SVGID_1_"></g>
+          <rect id="Rectangle" fill="url(#linearGradient-3)" fill-rule="nonzero" mask="url(#mask-2)" x="0.6282" y="0.163636364" width="12.6711" height="16.0927273"></rect>
+        </g>
+        <g id="Clipped" transform="translate(30.600000, 42.727273)">
+          <mask id="mask-5" fill="white">
+            <use xlink:href="#path-4"></use>
+          </mask>
+          <g id="SVGID_4_"></g>
+          <rect id="Rectangle" fill="url(#linearGradient-6)" fill-rule="nonzero" mask="url(#mask-5)" x="0.5355" y="0.172727273" width="12.951" height="16.3127273"></rect>
+        </g>
+        <g id="Clipped" transform="translate(0.000000, 42.727273)">
+          <mask id="mask-8" fill="white">
+            <use xlink:href="#path-7"></use>
+          </mask>
+          <g id="SVGID_7_"></g>
+          <rect id="Rectangle" fill="url(#linearGradient-9)" fill-rule="nonzero" mask="url(#mask-8)" x="0.7281" y="0.0845454545" width="12.1905" height="16.3863636"></rect>
+        </g>
+        <polygon id="Path" fill="#ED1D24" fill-rule="nonzero" points="39.8511 29.1336364 44.2431 39.5336364 15.7707 39.5336364"></polygon>
+        <g id="Clipped">
+          <mask id="mask-11" fill="white">
+            <use xlink:href="#path-10"></use>
+          </mask>
+          <g id="SVGID_10_"></g>
+          <rect id="Rectangle" fill="url(#linearGradient-12)" fill-rule="nonzero" mask="url(#mask-11)" x="0.7119" y="0.786363636" width="27.0243" height="38.74"></rect>
+        </g>
+        <g id="Clipped" transform="translate(17.100000, 0.000000)">
+          <mask id="mask-14" fill="white">
+            <use xlink:href="#path-13"></use>
+          </mask>
+          <g id="SVGID_13_"></g>
+          <polygon id="Path" fill="url(#linearGradient-15)" fill-rule="nonzero" mask="url(#mask-14)" points="13.6764 -12.8618182 46.3644 20.1554545 13.6764 53.1745455 -19.0116 20.1554545"></polygon>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
